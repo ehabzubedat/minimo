@@ -1,2 +1,2 @@
 # minimo
-Responsive web design using HTML/CSS and Bootstrap
+Responsive web page using HTML/CSS and Bootstrap
